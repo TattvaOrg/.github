@@ -1,1 +1,1 @@
-<!-- ### **Tattva :** Technology and tools that value autonomy
+### **TATTVA :** Technology and tools that value autonomy
